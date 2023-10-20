@@ -3,5 +3,5 @@ Descriptif du contexte d'utilisation
 Cette application web permet de consulter une liste de voitures disponibles. On peut faire une recherche pour trouver une voiture. Pour chaque voiture, on peut consulter les détails tel que: sa marque, son modèle, 
 sa finition, le type de carburant, son kilométrage, son année de production et son prix.
 On peut également ajouter une voiture avec les détails mentionnés auparavant renseignés ou bien supprimer une voiture de la liste.
-Le but est de pouvoir stocker les voitures qui sont à vendre. De cette manière, si l'on souhaite vendre notre voiture, nous pouvons le renseigner sur cet application web.
+Le but est de pouvoir stocker les voitures  disponibles dans l'entrepot et qui sont à vendre. De cette manière, si une voiture veut être vendues, nous pouvons le renseigner sur cet application web.
 
